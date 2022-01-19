@@ -1,0 +1,6 @@
+[book]
+authors = ["Mauricio Ferraz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Guia da Engenharia de Produção - GEPRO"
