@@ -1,6 +1,6 @@
 [book]
 authors = ["Mauricio Ferraz"]
-language = "en"
+language = "pt_BR"
 multilingual = false
 src = "src"
-title = "Guia da Engenharia de Produção - GEPRO"
+title = "Manual da CAEPRO"
