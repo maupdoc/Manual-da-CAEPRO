@@ -39,6 +39,10 @@ jobs:
         run: gem install asciidoctor
       - name: Install Asciidoctor epub support
         run: gem install asciidoctor-epub3
+      - name: Install Asciidoctor pdf support
+        run: gem install asciidoctor-pdf
+      - name: Install kramdown-asciidoc
+        run: gem install kramdown-asciidoc
       - name: Compile mdbook chapters to a single md file
         run: python scripts/concat_markdown.py
       - name: Build Asciidoctor
