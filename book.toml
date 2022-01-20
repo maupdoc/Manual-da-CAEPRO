@@ -4,3 +4,6 @@ language = "pt_BR"
 multilingual = false
 src = "src"
 title = "Manual da CAEPRO"
+[output.html]
+mathjax-support = true
+
