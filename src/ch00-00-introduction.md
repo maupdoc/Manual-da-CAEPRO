@@ -1,4 +1,6 @@
-# Feci missis solidorum partim evehor consueta inania
+# INTRODUÇÃO AO MANUAL
+
+![Logo da CAEPRO](media/caepro_logo.jpg)
 
 ## Opus zona
 
