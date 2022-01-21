@@ -1,3 +1,5 @@
+[![CI](https://github.com/maupdoc/Manual-da-CAEPRO/actions/workflows/main.yml/badge.svg)](https://github.com/maupdoc/Manual-da-CAEPRO/actions/workflows/main.yml)
+
 # Manual da CAEPRO
 
 ## Objetivo
