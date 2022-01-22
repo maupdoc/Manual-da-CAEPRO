@@ -1,6 +1,6 @@
-= MANUAL DA CAEPRO
+# MANUAL DA CAEPRO
 
-== Introdução ao Manual da CAEPRO
+## Introdução ao Manual da CAEPRO
 
 Boas-vindas ao Manual da CAEPRO, digo, futuro Manual da CAEPRO, se você nos ajudar! O que seria isso, afinal? O Manual da CAEPRO é uma das propostas da chapa EVOlução com os seguintes pontos em mente:
 
@@ -10,7 +10,7 @@ Boas-vindas ao Manual da CAEPRO, digo, futuro Manual da CAEPRO, se você nos aju
 * Revelar alguns processos da UFPI: estágios, monitoria, iniciação científica e etc.
 * Apoiar os alunos com recursos externos como links úteis.
 
-Se você está lendo isso online, parabéns, acaba de conhecer a futura plataforma do Manual.
+Se você está lendo isso online, parabéns, acaba de conhecer a futura plataforma do Manual. 
 
 Pretendemos honrar nossos valores EVO: Estratégia, Visão e Objetivo. E para isso, listamos nossas outras propostas:
 
