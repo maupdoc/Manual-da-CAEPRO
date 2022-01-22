@@ -1,13 +1,24 @@
 #!/usr/bin/python3
+# Une todos os arquivos de uma mesma pasta num único markdown
+# Ignore alguns arquivos como SUMMARY.md e arquivos que comecem com "_"
+
 import os
 import shutil
+from itertools import filterfalse
 
 docs_dir = 'src'
 
 def is_markdown(filename):
     return str(filename).endswith('.md')
 
+def is_ignore(filename):
+	return str(filename).startswith('_')
+
 markdown_files = list(filter(is_markdown, os.listdir(docs_dir)))
+
+# filter ignore files
+markdown_files = list(filterfalse(is_ignore, markdown_files))
+
 try:
     markdown_files.remove("SUMMARY.md")
 except:
