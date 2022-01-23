@@ -1,11 +1,9 @@
 # Introdução ao Manual da CAEPRO
 
-![Logo da chapa EVOlução](./media/logo.jpg)
-
 Boas-vindas ao Manual da CAEPRO, digo, futuro Manual da CAEPRO, se você nos ajudar! O que seria isso, afinal? O Manual da CAEPRO é uma das propostas da chapa EVOlução com os seguintes pontos em mente:
 
 * Documentar as principais dúvidas dos calouros e veteranos.
-* Ter uma documentação de fácil acesso.
+* Ter uma documentação de fácil acesso. Temos a versão online e a [versão pdf](https://github.com/maupdoc/Manual-da-CAEPRO/raw/gh-pages/pdf/document.pdf) 
 * Revelar os mistérios do SIGAA.
 * Revelar alguns processos da UFPI: estágios, monitoria, iniciação científica e etc.
 * Apoiar os alunos com recursos externos como links úteis.
@@ -21,3 +19,5 @@ Pretendemos honrar nossos valores EVO: Estratégia, Visão e Objetivo. E para is
 * Depois dessa maratona de propostas, lembre-se que acreditamos no valor do esporte como meio de desenvolvimento físico e social. Por isso, tentaremos o possível para fomentar ainda mais o esporte seja físico ou eSports.
 
 Parece incrível, né? Tudo isso só depende de você para se tornar realidade. Vote na chapa EVOlução e traga a evolução para a CAEPRO.
+
+![Logo da chapa EVOlução](./media/logo.jpg)

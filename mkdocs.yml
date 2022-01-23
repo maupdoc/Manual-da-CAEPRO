@@ -6,6 +6,15 @@ nav:
 theme:
   name: material
   language: pt
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para o tema escuro
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Mudar para o tema claro
   features:
     - navigation.instant
     - search.highlight
