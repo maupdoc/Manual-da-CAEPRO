@@ -1,0 +1,23 @@
+site_name: Manual da CAEPRO
+site_author: EVOlução
+nav:
+    - Início: index.md
+    
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.instant
+    - search.highlight
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/chapa01evolucao
+      name: Instragram da chapa EVOlução
+plugins:
+    - search:
+    - with-pdf:
+        cover_subtitle: Escrito por estudantes para estudantes
+        cover_logo: logo.jpg
+        copyright: Documento livre
+        toc_title: Sumário

@@ -1,5 +1,7 @@
 # Introdução ao Manual da CAEPRO
 
+![Logo da chapa EVOlução](./media/logo.jpg)
+
 Boas-vindas ao Manual da CAEPRO, digo, futuro Manual da CAEPRO, se você nos ajudar! O que seria isso, afinal? O Manual da CAEPRO é uma das propostas da chapa EVOlução com os seguintes pontos em mente:
 
 * Documentar as principais dúvidas dos calouros e veteranos.

@@ -1,56 +1,22 @@
-name: CI
-
+name: ci 
 on:
   push:
     branches:
       - main
-  pull_request:
-
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v1
-        with:
-          mdbook-version: '0.4.15'
-          # mdbook-version: 'latest'
-
-      - run: mdbook build
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book
-  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1
+      - uses: actions/setup-python@v2
         with:
-          ruby-version: 2.6
-      - name: Install Asciidoctor gem
-        run: gem install asciidoctor
-      - name: Install Asciidoctor epub support
-        run: gem install asciidoctor-epub3
-      - name: Install Asciidoctor pdf support
-        run: gem install asciidoctor-pdf
-      - name: Install kramdown-asciidoc
-        run: gem install kramdown-asciidoc
-      - name: Compile mdbook chapters to a single md file
-        run: python scripts/concat_markdown.py
-      - name: Build Asciidoctor
-        run: scripts/build_asciidoc.sh
-      - name: Commit and Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Asciidoc build"
-          git push origin main
+          python-version: 3.8
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-redirects
+      - run: pip install mdx-gh-links
+      - run: pip install mkdocs-minify-plugin
+      - run: pip install weasyprint
+      - run: pip install mkdocs-with-pdf
+      
+      - run: mkdocs gh-deploy --force
+
