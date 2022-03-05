@@ -1,7 +1,9 @@
 site_name: Manual da CAEPRO
-site_author: EVOlução
+site_author: CAEPRO UFPI
 nav:
     - Início: index.md
+    - SIGAA: sigaa.md
+    - Agradecimentos: agradecimentos.md
     
 theme:
   name: material
@@ -17,12 +19,16 @@ theme:
         name: Mudar para o tema claro
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
     - search.highlight
+    - toc.integrate
 extra:
   social:
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/chapa01evolucao
-      name: Instragram da chapa EVOlução
+      link: https://instagram.com/caeproufpi
+      name: Instragram da CAEPRO UFPI
 plugins:
     - search:
     - with-pdf:
