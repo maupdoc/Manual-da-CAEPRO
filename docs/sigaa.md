@@ -31,33 +31,40 @@ desempenho do professor em cada situação.
 
 Passo 3: Após responder a avaliação, finalize enviando suas respostas.
 
-## Declaração de Vínculo
-
-### O que é a declaração de vínculo?
-
-Serve como um documento para provar que o discente está vinculado e
-ativo em sua graduação. Este registro, contém algumas informações, por
-exemplo, nome completo, número da matrícula e o curso do graduando.
+## Ver as Minhas Notas
 
 ### Passo a passo
 
-Passo 01: Selecionar a ferramenta ENSINO \> declaração de vínculo. Logo,
-será gerado um PDF com a declaração.
+1. Selecione a aba "Ensino"
+2. Clique em "Minhas notas"
 
-![Imagem mostrando o item "Declaração de Vínculo selecionado"](./media/image4.jpeg)
+![](./media/image11.png)
 
-## Consultar Curso
+Após isso, carrega uma página contendo nome, matrícula e curso do aluno, assim como uma grade com as disciplinas de cada período e seus códigos, notas/médias, faltas e situação no final.
 
-###   O que é a ferramenta consultar curso?
+![](./media/image12.png)
 
-É uma aba do SIGAA, que serve para informar sobre os cursos ofertados
-pela universidade.
+Observe que em "Situação", pode-se haver:
+
+* AM - Aprovado por média (média maior ou igual a 7)
+* EF - Exame final (média maior ou igual a 4 e menor que 7)
+* RN - Reprovado por nota (média menor que 4 ou frequência menor que 75% das aulas)
+
+## Atestado de Matrícula
+
+### O que é?
+
+O Atestado de Matrícula indica os Componentes Curriculares em que o discente se encontra matriculado, informando o horário das atividades.
 
 ### Passo a passo
 
-Passo 01: Selecionar a ferramenta ENSINO \> consultar curso.
+ Existem dois métodos de acesso para o Atestado de Matrícula. No primeiro o discente deve acessar a aba ‘**ensino**’ e clicar na opção '**atestado de matrícula**’. Já no segundo método, ainda dentro da parte de ensino, o estudante deve seguir até a opção ‘**matrícula on-line**’ e nela acessar a opção atestado de matrícula.
 
-![Imagem mostrando o item "Consultar Curso"](./media/image5.jpeg)
+![Opção "Atestado de Matrícula" selecionada](./media/image23.jpg)
+
+Por fim, uma tela como a próxima imagem aparecerá:
+
+![Tela de Atestado de Matrícula](./media/image22.jpg)
 
 ## Consultar Histórico
 
@@ -90,24 +97,6 @@ Dados do curso que podem ser encontrados:
 Passo 01: Selecionar “Ensino” no portal do discente e depois “Consultar Histórico”. Por fim, um arquivo PDF será gerado dessa ação.
 
 ![Imagem com o item "Consultar Histórico" em destaque](./media/image7.png)
-
-## Trancamento de Componente Curricular
-
-Nesta operação você irá solicitar o trancamento nas matrículas que desejar. Ao selecionar para trancamento uma disciplina que possui co-requisitos, estes serão trancados automaticamente. Selecione as disciplinas que deseja trancar e informe o motivo, e, caso o motivo não esteja listado, entre com uma justificativa textual.
-
-### Condições
-
-![Condições para trancar uma componente curricular](./media/image8.png)
-
-### Passo a passo
-
-Para Trancar Componentes Curriculares, o discente deve entrar no SIGAA → Portal Discente → Ensino → Trancamento de Componente Curricular → Trancar.
-
-Você deve selecionar a disciplina que deseja trancar, marcar e apertar em solicitar trancamento.
-
-![Imagem sobre a seção da área de trancamento com as matérias disponíveis para trancar](./media/image9.jpg)
-
-A tela seguinte exibirá as informações das disciplinas com trancamento solicitado e a confirmação dos dados pessoais. Aperte em **confirmar a solicitação.** Por fim, o sistema mostrará o sucesso da operação, juntamente com os dados da solicitação do trancamento.
 
 ## O que é e como Consultar Projeto de Ensino
 
@@ -146,83 +135,20 @@ Entende-se por Projeto de Ensino toda proposta de atividade com vista à melhori
 
     ![](./media/resultado-3_2.jpg)
 
-## O que é e como fazer o Trancamento de Curso
+## Declaração de Vínculo
 
-De acordo com  a  norma 177/2012  do  funcionamento dos cursos de graduação da  UFPI, o trancamento de curso é a suspensão oficial das atividades acadêmicas do aluno, garantindo a manutenção do vínculo ao curso de graduação.
+### O que é a declaração de vínculo?
 
-### Passo a passo
-
-Ela é realizada pelo próprio aluno da instituição em três fases:
- 
-1. O aluno solicita o trancamento de curso on-line pelo próprio SIGAA. Basta seguir, Portal do Discente → Ensino → Trancamento de Curso → Iniciar Solicitação de Trancamento.
-2. O  aluno se  direciona ao  DAA  para  entregar o  pedido de  trancamento emitido  pelo SIGAA.
-3. O DAA defere ou indefere o pedido do aluno via SIGAA.
-
-Logo abaixo são mostrados os passos que devem ser seguidos para a realização do procedimento de trancamento de curso.
-
-1. O aluno se loga no Portal do Discente.
-
-    ![](./media/resultado-4_1.jpg)
-
-2. O aluno seleciona “Iniciar solicitação de trancamento”. Para isso, Ensino → Trancamento de Curso → Iniciar Solicitação de Trancamento.
-
-    ![](./media/resultado-4_2.jpg)
-
-3. O aluno será informado sobre as regras de trancamento de curso.
-
-    ![](./media/resultado-5_1.jpg)
-
-4. O aluno deverá aceitar os termos e imprimir o termo de trancamento de curso.
-5. Apenas o próprio aluno pode realizar o pedido de trancamento de curso. Para isso, é necessário informar a data de nascimento e senha do aluno.
-
-    ![](./media/resultado-5_2.jpg)
-
-6. Caso todos os dados estejam de acordo, o aluno deverá imprimir o comprovante de solicitação de trancamento de curso.
-
-    ![](./media/resultado-6_1.jpg)
-
-7. Será impressa a solicitação de trancamento de curso. É importante lembrar que o aluno deverá se  deslocar fisicamente para o DAA e apresentar a solicitação impressa para que a mesma seja avaliada pelo responsável do DAA em deferir ou não o trancamento de curso.
-    
-    ![](./media/resultado-6_2.jpg)
-
-Fonte para Trancamento De Curso: <https://ufpi.br/manuais-da-sti/videos-e-manuais-do-sigaa/category/16-alunos>
-
-## O que é e como Consultar Calendário Acadêmico
-
-Sistema de divisão do tempo que considera o ano letivo e estabelece os períodos de aula, de recesso e outras identificações julgadas conveniente, tendo em vista o interesse do processo educacional e o disposto no projeto pedagógico.
+Serve como um documento para provar que o discente está vinculado e
+ativo em sua graduação. Este registro, contém algumas informações, por
+exemplo, nome completo, número da matrícula e o curso do graduando.
 
 ### Passo a passo
 
-1. Na aba "Ensino" clique “consultar calendário acadêmico”
+Passo 01: Selecionar a ferramenta ENSINO \> declaração de vínculo. Logo,
+será gerado um PDF com a declaração.
 
-    ![](./media/resultado-7_1.png)
-
-2. Assim, você terá acesso a todos os calendários acadêmicos
-
-    ![](./media/resultado-7_2.png)
-
-3. Clicando no ícone de pesquisa você terá acesso ao calendário acadêmico escolhido
-
-    ![](./media/resultado-8_1.png)
-    
-## Ver as Minhas Notas
-
-### Passo a passo
-
-1. Selecione a aba "Ensino"
-2. Clique em "Minhas notas"
-
-![](./media/image11.png)
-
-Após isso, carrega uma página contendo nome, matrícula e curso do aluno, assim como uma grade com as disciplinas de cada período e seus códigos, notas/médias, faltas e situação no final.
-
-![](./media/image12.png)
-
-Observe que em "Situação", pode-se haver:
-
-* AM - Aprovado por média (média maior ou igual a 7)
-* EF - Exame final (média maior ou igual a 4 e menor que 7)
-* RN - Reprovado por nota (média menor que 4 ou frequência menor que 75% das aulas)
+![Imagem mostrando o item "Declaração de Vínculo selecionado"](./media/image4.jpeg)
 
 ## Encontrar Carga Horária Cursada
 
@@ -237,53 +163,6 @@ Observe que em "Situação", pode-se haver:
 Após isso, um documento PDF contendo os dados do aluno, curso e carga horária cursada pelo aluno (número de horas do total).
 
 ![](./media/image14.png)
-
-## Consultar Componente Curricular
-
-1. Selecione a aba "Ensino"
-2. Clique em "Consultar Componente Curricular"
-
-![](./media/image15.png)
-
-![](./media/image16.png)
-
-Funciona como um filtro para auxiliar na busca por componentes curriculares, em que diversos aspectos são levados em consideração, sendo os mais gerais o nível, unidade responsável e tipo do componente, que são selecionáveis pelo usuário. O resultado da consulta também pode ser exibido em formato de relatório ao marcar a opção.
-
-Seleção do nível:
-
-![](./media/image17.png)
-
-Seleção da unidade responsável:
-
-![](./media/image18.png)
-
-Seleção do tipo de componente:
-
-![](./media/image19.png)
-
-A seguir, um exemplo de consulta:
-
-![](./media/image20.png)
-
-Caso marque a opção "Exibir resultado da consulta em formato de relatório" ao buscar:
-
-![](./media/image21.png)
-
-## Atestado de Matrícula
-
-### O que é?
-
-O Atestado de Matrícula indica os Componentes Curriculares em que o discente se encontra matriculado, informando o horário das atividades.
-
-### Passo a passo
-
- Existem dois métodos de acesso para o Atestado de Matrícula. No primeiro o discente deve acessar a aba ‘**ensino**’ e clicar na opção '**atestado de matrícula**’. Já no segundo método, ainda dentro da parte de ensino, o estudante deve seguir até a opção ‘**matrícula on-line**’ e nela acessar a opção atestado de matrícula.
-
-![Opção "Atestado de Matrícula" selecionada](./media/image23.jpg)
-
-Por fim, uma tela como a próxima imagem aparecerá:
-
-![Tela de Atestado de Matrícula](./media/image22.jpg)
 
 ## Matrícula online
 
@@ -410,6 +289,107 @@ O que retorna a seguinte tela:
 
 ![](./media/image44.jpeg)
 
+## Trancamento de Componente Curricular
+
+Nesta operação você irá solicitar o trancamento nas matrículas que desejar. Ao selecionar para trancamento uma disciplina que possui co-requisitos, estes serão trancados automaticamente. Selecione as disciplinas que deseja trancar e informe o motivo, e, caso o motivo não esteja listado, entre com uma justificativa textual.
+
+### Condições
+
+![Condições para trancar uma componente curricular](./media/image8.png)
+
+### Passo a passo
+
+Para Trancar Componentes Curriculares, o discente deve entrar no SIGAA → Portal Discente → Ensino → Trancamento de Componente Curricular → Trancar.
+
+Você deve selecionar a disciplina que deseja trancar, marcar e apertar em solicitar trancamento.
+
+![Imagem sobre a seção da área de trancamento com as matérias disponíveis para trancar](./media/image9.jpg)
+
+A tela seguinte exibirá as informações das disciplinas com trancamento solicitado e a confirmação dos dados pessoais. Aperte em **confirmar a solicitação.** Por fim, o sistema mostrará o sucesso da operação, juntamente com os dados da solicitação do trancamento.
+
+## O que é e como fazer o Trancamento de Curso
+
+De acordo com  a  norma 177/2012  do  funcionamento dos cursos de graduação da  UFPI, o trancamento de curso é a suspensão oficial das atividades acadêmicas do aluno, garantindo a manutenção do vínculo ao curso de graduação.
+
+### Passo a passo
+
+Ela é realizada pelo próprio aluno da instituição em três fases:
+ 
+1. O aluno solicita o trancamento de curso on-line pelo próprio SIGAA. Basta seguir, Portal do Discente → Ensino → Trancamento de Curso → Iniciar Solicitação de Trancamento.
+2. O  aluno se  direciona ao  DAA  para  entregar o  pedido de  trancamento emitido  pelo SIGAA.
+3. O DAA defere ou indefere o pedido do aluno via SIGAA.
+
+Logo abaixo são mostrados os passos que devem ser seguidos para a realização do procedimento de trancamento de curso.
+
+1. O aluno se loga no Portal do Discente.
+
+    ![](./media/resultado-4_1.jpg)
+
+2. O aluno seleciona “Iniciar solicitação de trancamento”. Para isso, Ensino → Trancamento de Curso → Iniciar Solicitação de Trancamento.
+
+    ![](./media/resultado-4_2.jpg)
+
+3. O aluno será informado sobre as regras de trancamento de curso.
+
+    ![](./media/resultado-5_1.jpg)
+
+4. O aluno deverá aceitar os termos e imprimir o termo de trancamento de curso.
+5. Apenas o próprio aluno pode realizar o pedido de trancamento de curso. Para isso, é necessário informar a data de nascimento e senha do aluno.
+
+    ![](./media/resultado-5_2.jpg)
+
+6. Caso todos os dados estejam de acordo, o aluno deverá imprimir o comprovante de solicitação de trancamento de curso.
+
+    ![](./media/resultado-6_1.jpg)
+
+7. Será impressa a solicitação de trancamento de curso. É importante lembrar que o aluno deverá assinar o comprovante gerado e enviar ao setor indicado nas instruções listadas no mesmo.
+
+Fonte para Trancamento De Curso: <https://ufpi.br/manuais-da-sti/videos-e-manuais-do-sigaa/category/16-alunos>
+
+## Consultar Curso
+
+### O que é a ferramenta consultar curso?
+
+É uma aba do SIGAA, que serve para informar sobre os cursos ofertados
+pela universidade.
+
+### Passo a passo
+
+Passo 01: Selecionar a ferramenta ENSINO \> consultar curso.
+
+![Imagem mostrando o item "Consultar Curso"](./media/image5.jpeg)
+
+## Consultar Componente Curricular
+
+1. Selecione a aba "Ensino"
+2. Clique em "Consultar Componente Curricular"
+
+![](./media/image15.png)
+
+![](./media/image16.png)
+
+Funciona como um filtro para auxiliar na busca por componentes curriculares, em que diversos aspectos são levados em consideração, sendo os mais gerais o nível, unidade responsável e tipo do componente, que são selecionáveis pelo usuário. O resultado da consulta também pode ser exibido em formato de relatório ao marcar a opção.
+
+Seleção do nível:
+
+![](./media/image17.png)
+
+Seleção da unidade responsável:
+
+![](./media/image18.png)
+
+Seleção do tipo de componente:
+
+![](./media/image19.png)
+
+A seguir, um exemplo de consulta:
+
+![](./media/image20.png)
+
+Caso marque a opção "Exibir resultado da consulta em formato de relatório" ao buscar:
+
+![](./media/image21.png)
+
 ## Consultar Estrutura Curricular
 
 ### O que é?
@@ -429,3 +409,22 @@ O discente deve ir até a aba '**ensino**' e no fim da aba deve acessar a opçã
 Para conseguir uma declaração de período máximo para concluir o curso é só clicar no símbolo de copia na frente da matriz curricular desejada:
 
 ![](./media/image49.jpeg)
+
+## O que é e como Consultar Calendário Acadêmico
+
+Sistema de divisão do tempo que considera o ano letivo e estabelece os períodos de aula, de recesso e outras identificações julgadas conveniente, tendo em vista o interesse do processo educacional e o disposto no projeto pedagógico.
+
+### Passo a passo
+
+1. Na aba "Ensino" clique “consultar calendário acadêmico”
+
+    ![](./media/resultado-7_1.png)
+
+2. Assim, você terá acesso a todos os calendários acadêmicos
+
+    ![](./media/resultado-7_2.png)
+
+3. Clicando no ícone de pesquisa você terá acesso ao calendário acadêmico escolhido
+
+    ![](./media/resultado-8_1.png)
+    
