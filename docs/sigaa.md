@@ -145,8 +145,10 @@ exemplo, nome completo, número da matrícula e o curso do graduando.
 
 ### Passo a passo
 
-Passo 01: Selecionar a ferramenta ENSINO \> declaração de vínculo. Logo,
-será gerado um PDF com a declaração.
+1. Selecionar a ferramenta Ensino
+2. Selecionar declaração de vínculo. 
+
+Logo,será gerado um PDF com a declaração.
 
 ![Imagem mostrando o item "Declaração de Vínculo selecionado"](./media/image4.jpeg)
 
@@ -239,6 +241,8 @@ Basta selecionar '**realizar matricula em turma de férias**'.
 O processo de matricula é o **mesmo da institucional**, a diferença é só a data no qual ela pode ser realizada que geralmente é em **20XX.3**
 
 ![](./media/image37.png)
+
+O atestado de matricula de férias tem a mesma função do atestado de matrícula normal.
 
 ![](./media/image36.png)
 
@@ -355,14 +359,15 @@ pela universidade.
 
 ### Passo a passo
 
-Passo 01: Selecionar a ferramenta ENSINO \> consultar curso.
+1. Selecionar a ferramenta "Ensino".
+2. Selecionar "Consultar Curso".
 
 ![Imagem mostrando o item "Consultar Curso"](./media/image5.jpeg)
 
 ## Consultar Componente Curricular
 
-1. Selecione a aba "Ensino"
-2. Clique em "Consultar Componente Curricular"
+1. Selecione a aba "Ensino".
+2. Clique em "Consultar Componente Curricular".
 
 ![](./media/image15.png)
 
@@ -398,7 +403,7 @@ Nessa opção fica disponível para consulta a Estrutura Curricular.
 
 ### Como acessar
 
-O discente deve ir até a aba '**ensino**' e no fim da aba deve acessar a opção '**Consultar Estrutura Curricular**’.
+O discente deve ir até a aba '**Ensino**' e no fim da aba deve acessar a opção '**Consultar Estrutura Curricular**’.
 
 ![](./media/image48.jpeg)
 
